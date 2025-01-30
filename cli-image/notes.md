@@ -1,0 +1,1 @@
+### After rading the source code of resize-optimize-images found out that the file can only be saved to the same path as the source , so if i want to change the path where it is saved I need to change the source file.
